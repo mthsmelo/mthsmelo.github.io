@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(175, 122, 109)
+}
+h1, h2{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.fontes-diferentes{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
